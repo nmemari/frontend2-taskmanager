@@ -1,0 +1,32 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .item__container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    width: 600px;
+  }
+  
+  .item__details {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .item__times {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .btns {
+    display: flex;
+    gap: 20px;
+  }
+  
